@@ -1,5 +1,6 @@
 {
     "name": "Last Project Ryan and Jay Sending",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
